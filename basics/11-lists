@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . .. /boot -a -group-directories-first 
+ls . .. /boot -a -G 
