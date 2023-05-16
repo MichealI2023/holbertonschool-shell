@@ -1,2 +1,2 @@
-#!/bin/bash 
-chmod ugo+x $(ls -p|grep/)   
+#!/bin/bash
+chmod ugo+x $(ls -p|grep)   
