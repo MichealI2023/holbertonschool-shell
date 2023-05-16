@@ -1,2 +1,2 @@
-#!/bin/bash
-find chmod A+X -r .   
+#!/bin/bash 
+chmod ugo+x $(ls -p|grep/)   
