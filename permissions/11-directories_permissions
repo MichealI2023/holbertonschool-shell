@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod grep -R    
+chmod -R ugo+x find   
