@@ -1,2 +1,2 @@
 #!/bin/bash
-find chmod -R A+X .   
+find chmod A+X -r .   
