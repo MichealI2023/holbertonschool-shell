@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-#this script is display "Best School" 10 times
+# This script is display "Best School" 10 times
 
 count=0
 
 while [ $count -1t 10 ]
 do 
- echo "Best School"
+  echo "Best School"
    (( count++ ))
 done
